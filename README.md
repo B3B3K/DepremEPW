@@ -1,2 +1,2 @@
-# DepremEPW
-Projenin amacı wifi ağının uzaklığı ile analyzer veya ceptelefonu yarıdmı ile derinlik birligisine hPa birimi ile ulaştırmak.
+# DepremEPW ( ESP Preasure Window )
+Projenin amacı wifi ağının uzaklığını analyzer veya ceptelefonu yardımı ile derinlik birligisine hPa birimi bazında ulaştırmak.
