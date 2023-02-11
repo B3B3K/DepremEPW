@@ -1,2 +1,2 @@
 # DepremEPW
-Projenin amacı wifi ağının uzaklıüı ile anaşyzer veya ceptelefonu yardmı ile derinlik birligisne deniz seviyesi ile ulaşmak.
+Projenin amacı wifi ağının uzaklığı ile analyzer veya ceptelefonu yarıdmı ile derinlik birligisine hPa birimi ile ulaştırmak.
